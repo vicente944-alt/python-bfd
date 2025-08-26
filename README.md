@@ -35,6 +35,11 @@ Vai mandando as dúvidas aqui no whatsapp
         Crie um programa que imprima a tabuada de um número escolhido pelo usuário. Use um loop for para imprimir os resultados de 1 a 10. 
     4. Números Primos:
         Crie um programa que verifique se um número inserido pelo usuário é primo. Use um loop for para verificar a divisibilidade. 
+    5. Palíndromo
+        Crie um programa para verificar se uma palavra digitada é um palíndromo. Ou seja, a leitura pode ser feita da esquerda para direita ou da direita para a esquerda. Exemplo:
+         - Hannah
+         - arara
+         - radar
 
 # Nível Avançado:
 
@@ -48,6 +53,7 @@ Vai mandando as dúvidas aqui no whatsapp
         Crie um programa que receba uma lista de números e retorne um dicionário com a contagem de cada número na lista. Use um loop for para percorrer a lista e um dicionário para armazenar as contagens. 
     4. Jogo da Forca (desafio):
         Crie um jogo da forca simples, onde o jogador tenta adivinhar uma palavra secreta. O programa deve fornecer dicas e verificar as tentativas do jogador. Use loops while para controlar o andamento do jogo e loops for para verificar as letras na palavra. 
+
 
 # Dicas:
 
